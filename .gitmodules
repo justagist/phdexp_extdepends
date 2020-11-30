@@ -1,0 +1,12 @@
+[submodule "kalman_filter_python"]
+	path = kalman_filter_python
+	url = https://github.com/justagist/kalman_filter_python
+	branch = master
+[submodule "velocity_profile_for_pos_traj"]
+	path = velocity_profile_for_pos_traj
+	url = https://github.com/justagist/velocity_profile_for_pos_traj
+	branch = master
+[submodule "covariance_ellipsoid_python"]
+	path = covariance_ellipsoid_python
+	url = https://github.com/justagist/covariance_ellipsoid_python
+	branch = master
